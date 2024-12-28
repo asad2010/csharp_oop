@@ -1,0 +1,14 @@
+d:\gamedev\first\Program_bin\.cphcsrun.exe
+d:\gamedev\first\Program_bin\.cphcsrun.deps.json
+d:\gamedev\first\Program_bin\.cphcsrun.runtimeconfig.json
+d:\gamedev\first\Program_bin\.cphcsrun.dll
+d:\gamedev\first\Program_bin\.cphcsrun.pdb
+d:\gamedev\first\.cphcsrun\obj\Release\net8.0\.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+d:\gamedev\first\.cphcsrun\obj\Release\net8.0\.cphcsrun.AssemblyInfoInputs.cache
+d:\gamedev\first\.cphcsrun\obj\Release\net8.0\.cphcsrun.AssemblyInfo.cs
+d:\gamedev\first\.cphcsrun\obj\Release\net8.0\.cphcsrun.csproj.CoreCompileInputs.cache
+d:\gamedev\first\.cphcsrun\obj\Release\net8.0\.cphcsrun.dll
+d:\gamedev\first\.cphcsrun\obj\Release\net8.0\refint\.cphcsrun.dll
+d:\gamedev\first\.cphcsrun\obj\Release\net8.0\.cphcsrun.pdb
+d:\gamedev\first\.cphcsrun\obj\Release\net8.0\.cphcsrun.genruntimeconfig.cache
+d:\gamedev\first\.cphcsrun\obj\Release\net8.0\ref\.cphcsrun.dll

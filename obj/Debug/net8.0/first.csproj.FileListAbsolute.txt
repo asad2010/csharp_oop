@@ -1,0 +1,14 @@
+D:\gamedev\first\bin\Debug\net8.0\first.exe
+D:\gamedev\first\bin\Debug\net8.0\first.deps.json
+D:\gamedev\first\bin\Debug\net8.0\first.runtimeconfig.json
+D:\gamedev\first\bin\Debug\net8.0\first.dll
+D:\gamedev\first\bin\Debug\net8.0\first.pdb
+D:\gamedev\first\obj\Debug\net8.0\first.GeneratedMSBuildEditorConfig.editorconfig
+D:\gamedev\first\obj\Debug\net8.0\first.AssemblyInfoInputs.cache
+D:\gamedev\first\obj\Debug\net8.0\first.AssemblyInfo.cs
+D:\gamedev\first\obj\Debug\net8.0\first.csproj.CoreCompileInputs.cache
+D:\gamedev\first\obj\Debug\net8.0\first.dll
+D:\gamedev\first\obj\Debug\net8.0\refint\first.dll
+D:\gamedev\first\obj\Debug\net8.0\first.pdb
+D:\gamedev\first\obj\Debug\net8.0\first.genruntimeconfig.cache
+D:\gamedev\first\obj\Debug\net8.0\ref\first.dll
